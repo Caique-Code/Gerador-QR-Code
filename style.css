@@ -1,0 +1,39 @@
+body {
+    background-color: #f0f2f5;
+    font-family: 'Helvetica Neue' ,Arial,  sans-serif;
+    color: 333333;
+}
+
+h1 {
+
+    color: #ff6363;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 2px solid #ff9f68;
+}
+
+#textInput{
+    border: 1px solid #ff9f68;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #ff6363;
+    border-color: #ff6363;
+}
+
+.btn-primary:hover {
+    background-color: #ff9f68;
+    border-color: #ff9f68;
+}
+
+#qrCodeContainer img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
